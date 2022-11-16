@@ -1,5 +1,5 @@
 ### About
-Doing art as TV Man and asking some essential question about the nature of our existance
+Doing art as TV Man and asking some essential question about the nature of our existance i guess.
 
 
 ### Questions i want answers to
