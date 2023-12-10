@@ -1,6 +1,11 @@
 ### About
-Besides ML doing art as TV Man.
-Additionally, I am developing a mathematical framework aimed at unifying different branches of mathematics. This provides a holistic view of the Mathematical Universe, based on inter-theoretical similarities and correspondences...
+
+Busy writing:
+
+Retrocausal quantum evolution model
+And universal representation theory
+
+Besides, doing art as TV Man.
 
 <!---
 danielcieslinski/danielcieslinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profilea
