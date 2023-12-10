@@ -1,9 +1,8 @@
 ### About
 
-Busy writing:
 
-Retrocausal quantum evolution model
-And universal representation theory
+Busy writitng retrocausal quantum evolution model 
+and universal representation theory.
 
 Besides, doing art as TV Man.
 
